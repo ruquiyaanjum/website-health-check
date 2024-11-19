@@ -1,7 +1,7 @@
 #!/bin/bash
 
 website_url=$1
-email="ruquiyaanjum23@gmail.com"  # Replace with your actual email
+email=""  # Replace with your actual email
 
 check_website() {
     # Get the HTTP status code for the website
